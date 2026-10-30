@@ -1,0 +1,41 @@
+{
+  "heading": "SE6_Persuasive Writing-II(Writing)",
+  "topics": [
+    {
+      "heading": "Persuasive Writing-II(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Edify”, which means: To instruct or improve someone morally, intellectually, or spiritually.",
+          "text_area": "",
+          "answer": ["The philosopher hoped that his writings would edify future generations rather than merely entertain them."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Deleterious”, which means: Causing harm or damage; harmful in its effects.",
+          "text_area": "",
+          "answer": ["The committee warned that the deleterious effects of unchecked corruption could undermine public trust for decades."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Vespertine”, which means: Relating to, occurring, or active in the evening.",
+          "text_area": "",
+          "answer": ["A gentle vespertine breeze drifted through the courtyard as the scholars concluded their discussions."]
+        },
+        {
+          "questionNo": 5,
+          "type": "long",
+          "question": "Imagine that your mom has decided to take your video games away.<br>Write an opinion piece persuading her to let you play games, highlighting how they can be “as important as real sports.”",
+
+          "text_area": "",
+          "answer": [""]
+        }
+
+
+      ]
+    }
+  ]
+}
